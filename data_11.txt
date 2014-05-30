@@ -1,0 +1,11 @@
+Id|Name|city|Grade|Age
+s006|ram|mumbai|D|18
+s007|shyam|delhi|B|17
+s008|ravi|bangalore|C|17
+s009|kishan|delhi|A|17
+s010|shiv|mumbai|C|17
+s021|ram1|mumbai|D|18
+s022|shyam1|delhi|B|17
+s023|ravi1|bangalore|C|17
+s024|kishan1|delhi|A|17
+s025|shiv1|mumbai|C|17

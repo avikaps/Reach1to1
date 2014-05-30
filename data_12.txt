@@ -1,0 +1,11 @@
+Id|Name|city|Grade|Age
+s011|seema|mumbai|B|18
+s012|reema|jaipur|E|18
+s013|deema|mumbai|D|17
+s014|teena|delhi|A|18
+s015|meena|bangalore|C|18
+s016|seema1|mumbai|D|18
+s017|reema1|jaipur|E|18
+s018|deema1|mumbai|D|17
+s019|teena1|delhi|A|18
+s020|meena1|bangalore|C|18
